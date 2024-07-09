@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Demo Page</title>
+</head>
+<body>
+<input type=text placeholder=username id=username></input><br><br>
+<input type=text placeholder=password id=password></input></input><br><br>
+<input type=submit placeholder=login></input><br><br>
+<a href="www.google.com"> forgot password</a><br>
+</body>
+</html>
